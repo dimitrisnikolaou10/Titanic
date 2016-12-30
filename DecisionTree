@@ -1,4 +1,6 @@
- Import the Pandas library
+# I will predict how many passengers of the Titanic will survive using Decision Tree Classifier 
+ 
+Import the Pandas library
 import pandas as pd
 
 # Load the train and test datasets to create two DataFrames
